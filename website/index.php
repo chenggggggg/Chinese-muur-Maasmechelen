@@ -12,7 +12,7 @@ $menu = array(
     'home'  => array('text'=>'Home',  'url'=>'#', 'class'=>null),
     'over' => array('text'=>'Over Ons', 'url'=>'#over', 'class'=>null),
     'menu'  => array('text'=>'Menu',  'url'=>'#menu', 'class'=>null),
-    'maandmenu'  => array('text'=>'Maandmenu',  'url'=>'#maandmenu', 'class'=>null),
+    'weekmenu'  => array('text'=>'Weekmenu',  'url'=>'#weekmenu', 'class'=>null),
     'locatie' => array('text'=>'Locatie', 'url'=>'#locatie', 'class'=>null),
 );
 
@@ -71,7 +71,7 @@ function modifyNavbar($page, $items) {
         require_once('home.php');
         require_once('over.php');
         require_once('menu.php');
-        require_once('maandmenu.php');
+        require_once('weekmenu.php');
         require_once('locatie.php');
         ?>
         </div>
