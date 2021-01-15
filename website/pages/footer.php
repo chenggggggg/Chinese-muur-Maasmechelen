@@ -24,7 +24,7 @@
 								<td>van 11.30 tot 22.00 u.</td>
 							</tr>
 							<tr>
-								<td>Bekijk <a href='#over'>hier</a> onze openingstijden tijdens corona</td>
+								<td>Bekijk <a href='#over'>hier</a> onze nieuwe openingstijden vanaf 19 januari</td>
 							</tr>
 						</table>
 			</div>

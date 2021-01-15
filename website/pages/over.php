@@ -41,7 +41,7 @@
         Tijdelijk voor corona
         -->
         <header>
-            <h3>Openingstijden tijdens Corona</h3>
+            <h3>Openingstijden vanaf 19 januari</h3>
         </header>
         <table>
           <tr>
@@ -74,7 +74,7 @@
             <p>089 / 76.48.80</p>
           </li>
 		      <li>
-            <p>Nieuw!</p>
+            <h4>Nieuw!</h4>
             <p>Nu Bancontact beschikbaar</p>
           </li>
         </ul>
