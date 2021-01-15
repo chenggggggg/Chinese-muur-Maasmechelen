@@ -22,7 +22,7 @@
         <table>
           <tr>
             <td>maandag:&nbsp;</td>
-			<td>gesloten, behalve op feestdagen</td>
+			      <td>gesloten, behalve op feestdagen</td>
           </tr>
           <tr>
             <td>dinsdag t/m vrijdag:&nbsp;</td>
@@ -37,6 +37,26 @@
             <td>van 11.30 tot 22.00 u.</td>
           </tr>
         </table>
+        <!---
+        Tijdelijk voor corona
+        -->
+        <header>
+            <h3>Openingstijden tijdens Corona</h3>
+        </header>
+        <table>
+          <tr>
+            <td>maandag:&nbsp;</td>
+			      <td>gesloten, behalve op feestdagen</td>
+          </tr>
+          <tr>
+            <td>dinsdag t/m vrijdag:&nbsp;</td>
+            <td>van 16.00 tot 21.00 u</td>
+          <tr>
+            <td>zaterdag en zondag:&nbsp;</td>
+            <td>van 11.30 tot 22.00 u</td>
+          </tr>
+        </table>
+
         <header>
           <h2>Contact</h2>
         </header>
@@ -53,8 +73,9 @@
             <h3>Tel.</h3>
             <p>089 / 76.48.80</p>
           </li>
-		  <li>
-            <p>Let op! Wij hebben geen Bancontact!</p>
+		      <li>
+            <p>Nieuw!</p>
+            <p>Nu Bancontact beschikbaar</p>
           </li>
         </ul>
       </div>

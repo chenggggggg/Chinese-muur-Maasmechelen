@@ -23,6 +23,9 @@
 								<td>zondag + feestdagen:&nbsp;</td>
 								<td>van 11.30 tot 22.00 u.</td>
 							</tr>
+							<tr>
+								<td>Bekijk <a href='#over'>hier</a> onze openingstijden tijdens corona</td>
+							</tr>
 						</table>
 			</div>
 			<div class="6u 12u(mobile)">
@@ -47,7 +50,8 @@
 							<p><a href="https://www.facebook.com/De-Chinese-Muur-1725514201044104/">Like ons op Facebook!</a></p>
 						</li>
 						<li>
-							<p>Let op! Wij hebben geen Bancontact!</p>
+           					<p>Nieuw!</p>
+            				<p>Nu Bancontact beschikbaar</p>
 						</li>
 					</ul>
 			</div>
