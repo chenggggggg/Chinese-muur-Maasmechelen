@@ -5,10 +5,10 @@
     </header>
     <div class="row">
       <div class="12u box">
-        <image width="100%" height="auto" src="images/Weekmenu 1-1.png"/>
-        <image width="100%" height="auto" src="images/Weekmenu 2-1.png"/>
-        <image width="100%" height="auto" src="images/Weekmenu 3-1.png"/>
-        <image width="100%" height="auto" src="images/Weekmenu 4-1.png"/>
+        <image width="100%" height="auto" src="images/Weekmenu1.jpg"/>
+        <image width="100%" height="auto" src="images/Weekmenu2.jpg"/>
+        <image width="100%" height="auto" src="images/Weekmenu3.jpg"/>
+        <image width="100%" height="auto" src="images/Weekmenu4.jpg"/>
       </div>
     </div>
   </div>

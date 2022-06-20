@@ -6,12 +6,15 @@
     <div class="row">
       <div class="6u 12u(mobile) box">
         <header>
-            <h3>De Chinese Muur</h3>
+            <h3>Tasty Hong Kong</h3>
         </header>
-        <p>Gevestigd in de gemeente Maasmechelen aan de Rijksweg (vlakbij Maasmechelen Village), zit Chinees restaurant "De Chinese Muur", al ruim 20 jaar een begrip in Maasmechelen en omstreken. Vele tevreden klanten uit de wijde omgeving weten het sfeervolle restaurant "De Chinese Muur" te vinden. De vriendelijke bediening, de service en de Oosterse gastvrijheid is een vanzelfsprekendheid in ons restaurant.</p>
+        <p>Het vernieuwende en sfeervolle Chinees restaurant "Tasty Hong Kong" is sinds 1 oktober 2021 geopend. 
+          Gevestigd in de gemeente Maasmechelen aan de Rijksweg (vlakbij winkelcentrum M2 ), 
+          onze Oosterse gastvrijheid is een vanzelfsprekendheid in ons restaurant.</p>
 
-        <p>Met onze enthousiaste keukenbrigade en bediening proberen wij u het zo veel mogelijk naar uw zin te maken, zodat u optimaal van uw maaltijd kunt genieten.<br />
-        Al onze gerechten worden met veel zorg en verse producten bereidt en dit proeft u!</p>
+        <p>Met onze enthousiaste keukenbrigade en goede service proberen wij u het zo veel mogelijk naar uw zin te maken,
+           zodat u optimaal van uw maaltijd kunt genieten.
+           Al onze gerechten worden met veel zorg en verse producten bereidt en dit proeft u terug!</p>
 
         <p>Graag verwelkomen wij u in ons prachtige restaurant!</p>
       </div>
@@ -26,7 +29,7 @@
           </tr>
           <tr>
             <td>dinsdag t/m vrijdag:&nbsp;</td>
-            <td>van 12.00 tot 14.00 u. <br />en van 16.30 tot 21.30 u.</td>
+            <td>van 12.00 tot 14.00 u. <br />en van 16.30 tot 22.0 u.</td>
           </tr>
           <tr>
             <td>zaterdag:&nbsp;</td>
@@ -37,25 +40,6 @@
             <td>van 11.30 tot 22.00 u.</td>
           </tr>
         </table>
-        <!---
-        Tijdelijk voor corona
-        -->
-        <header>
-            <h3>Openingstijden vanaf 19 januari</h3>
-        </header>
-        <table>
-          <tr>
-            <td>maandag:&nbsp;</td>
-			      <td>gesloten, behalve op feestdagen</td>
-          </tr>
-          <tr>
-            <td>dinsdag t/m vrijdag:&nbsp;</td>
-            <td>van 16.00 tot 21.00 u</td>
-          <tr>
-            <td>zaterdag en zondag:&nbsp;</td>
-            <td>van 11.30 tot 22.00 u</td>
-          </tr>
-        </table>
 
         <header>
           <h2>Contact</h2>
@@ -64,7 +48,7 @@
           <li>
             <h3>Adres</h3>
             <p>
-              De Chinese Muur<br />
+              Tasty Hong Kong<br />
               Rijksweg 203<br />
               3630 Maasmechelen<br />
             </p>
@@ -72,10 +56,6 @@
           <li>
             <h3>Tel.</h3>
             <p>089 / 76.48.80</p>
-          </li>
-		      <li>
-            <h4>Nieuw!</h4>
-            <p>Nu Bancontact beschikbaar</p>
           </li>
         </ul>
       </div>

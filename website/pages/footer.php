@@ -13,7 +13,7 @@
 							</tr>
 							<tr>
 								<td>dinsdag t/m vrijdag:&nbsp;</td>
-								<td>van 12.00 tot 14.00 u. <br />en van 16.30 tot 21.30 u.</td>
+								<td>van 12.00 tot 14.00 u. <br />en van 16.30 tot 22.00 u.</td>
 							</tr>
 							<tr>
 								<td>zaterdag:&nbsp;</td>
@@ -22,9 +22,6 @@
 							<tr>
 								<td>zondag + feestdagen:&nbsp;</td>
 								<td>van 11.30 tot 22.00 u.</td>
-							</tr>
-							<tr>
-								<td>Bekijk <a href='#over'>hier</a> onze nieuwe openingstijden vanaf 19 januari</td>
 							</tr>
 						</table>
 			</div>
@@ -36,7 +33,7 @@
 						<li>
 							<h3>Adres</h3>
 							<p>
-								De Chinese Muur<br />
+								Tasty Hong Kong<br />
 								Rijksweg 203<br />
 								3630 Maasmechelen<br />
 							</p>
@@ -46,12 +43,11 @@
 							<p>089 / 76.48.80</p>
 						</li>
 						<li>
-							<h3><a class="icon fa-facebook" href="https://www.facebook.com/De-Chinese-Muur-1725514201044104/"></a></h3>
-							<p><a href="https://www.facebook.com/De-Chinese-Muur-1725514201044104/">Like ons op Facebook!</a></p>
+							<h3><a class="icon fa-facebook" href="https://www.facebook.com/tastyhongkongrestaurantbelgium/"></a></h3>
+							<p>Volg ons op social media!</p>
 						</li>
 						<li>
-           					<p>Nieuw!</p>
-            				<p>Nu Bancontact beschikbaar</p>
+							<h3><a class="icon fa-instagram" href="https://www.instagram.com/TastyHongKong.be"></a></h3>
 						</li>
 					</ul>
 			</div>
@@ -60,7 +56,7 @@
 			<div class="12u">
 				<div id="copyright">
 					<ul class="links">
-						<li>&copy; De Chinese Muur</li>
+						<li>&copy; Tasty Hong Kong</li>
 						<li>Oorspronkelijk ontwerp: <a href="http://html5up.net">HTML5 UP</a></li>
 					</ul>
 				</div>

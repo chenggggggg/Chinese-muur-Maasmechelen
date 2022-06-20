@@ -1,0 +1,6 @@
+
+<div style="background-color:#fcf8e3; width:100%; padding:10px;">
+  <h2>Mededeling!</h2>
+  </br>
+  <p>Op moederdag, bij bestellingen boven de €50,- krijgt u een gratis fles Chinese lychee wijn.</p>
+</div>

@@ -1,14 +1,6 @@
 <?php
-$images = ['images/carousel/picture00001.jpg',
-'images/carousel/picture00002.jpg',
-'images/carousel/picture00003.jpg',
-'images/carousel/picture00004.jpg',
-'images/carousel/picture00005.jpg',
-'images/carousel/picture00006.jpg',
-'images/carousel/picture00007.jpg',
-'images/carousel/picture00008.jpg',
-'images/carousel/picture00009.jpg',
-'images/carousel/picture00010.jpg'];
+$images = ['images/carousel/picture00001.jpeg',
+'images/carousel/picture00002.jpeg'];
 ?>
 <div class="row">
   <div id="cycler">

@@ -32,8 +32,9 @@ function generateMenu($page, $items) {
     }
   }
   $html .= "  <li>
-  <a class='icon fa-facebook' href='https://www.facebook.com/De-Chinese-Muur-1725514201044104/'></a></li>
-  \n</ul>\n</nav>\n";
+  <a class='icon fa-facebook' href='https://www.facebook.com/tastyhongkongrestaurantbelgium/'></a></li>";
+  $html .= "  <li>
+  <a class='icon fa-instagram' href='https://www.instagram.com/TastyHongKong.be'></a></li>\n</ul>\n</nav>\n";
   return $html;
 }
 
@@ -47,11 +48,11 @@ function modifyNavbar($page, $items) {
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>Restaurant De Chinese Muur - <?php echo ucfirst($page); ?></title>
+		<title>Restaurant Tasty Hong Kong - <?php echo ucfirst($page); ?></title>
 		<meta charset="utf-8" />
     <meta name="robots" content="index, follow" />
     <meta name="description" content="Chinese Muur Maasmechelen ziet Oosterse gastvrijheid als een vanzelfsprekendheid. Al onze gerechten worden met veel zorg en verse producten bereidt en dit proeft u!"/>
-    <meta name="keywords" content="De Chinese Muur, De Chinese Muur Maasmechelen, restaurant, afhalen, bezorgen, eten bestellen, Chinees, Indonesisch, Vietnamees, Snacks, Loempia, Vegetarisch"/>
+    <meta name="keywords" content="Tasty Hong Kong, Tasty Hong Kong Maasmechelen, restaurant, afhalen, bezorgen, eten bestellen, Chinees, Indonesisch, Vietnamees, Snacks, Loempia, Vegetarisch"/>
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="assets/sass/main.min.css" />
